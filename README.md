@@ -20,10 +20,10 @@ O protótipo foi estruturado para atender a todos os requisitos do desafio, cont
 ## 📸 Telas do Protótipo
 
 **1. Apresentação (Hero Section)**
-![Tela de Apresentação]({0A072B24-CCD2-4EF9-8435-2EC6AF96123C}.png)
+![Tela de Apresentação](home.png)
 
 **2. Stacks e Habilidades**
-![Tela de Skills]({0F9FAA3E-78ED-4FC4-B623-DA7EEB28D8C5}.png)
+![Tela de Skills](skills.png)
 
 **3. Página Individual de Projeto**
-![Tela do Projeto]({47D091D6-FC08-4AF0-9C0B-CAAE8EB35638}.png)
+![Tela do Projeto](project-page.png)
